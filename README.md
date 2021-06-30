@@ -1,6 +1,6 @@
 # lorenzAttractorPlotter
 
-Program which makes a simple plot of the Lorenz equations and with particular values plugged into those equations, can create a pretty Lorenz attractor plot.
+Program which makes a simple plot of the Lorenz equations and with particular values plugged into those equations, can create a pretty Lorenz attractor plot. I utilized the 4th-order Runge Kutta method in order to evaluate the first order differential equations that are the Lorenz equations.
 This being a Lorenz system,
 <img width="639" alt="lorenz_system" src="https://user-images.githubusercontent.com/37377528/123887541-b5aa9100-d91f-11eb-8614-886a31353c5b.png">
 
